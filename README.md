@@ -8,8 +8,8 @@ Using information from the United States Geological Survey (USGS) and Leaflet, I
 Visuals and Usage:
 There are multiple overlays to this dataset. The base map can change and then the earthquakes and tectonic plates can be added and removed from the map independently. 
 
+![image](https://user-images.githubusercontent.com/117327499/229046982-c1a5cc67-c829-4e05-8281-45ff1c35e826.png)
 
-![image](https://user-images.githubusercontent.com/117327499/229046343-b5809664-2b06-4803-9e1b-0f35ba09f600.png)
 
 ![image](https://user-images.githubusercontent.com/117327499/229046413-aa68eeae-ea72-4262-b8f7-d5b417488808.png)
 
